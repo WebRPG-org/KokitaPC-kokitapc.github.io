@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
-        "title": "岩だらけの館からの脱出 DX",
+        "title": "岩だらけの館からの脱出",
         "width": 816,
         "height": 624,
         "position": "center",
